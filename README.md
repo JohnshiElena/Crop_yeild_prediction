@@ -12,7 +12,7 @@
 
 An AI-powered system that predicts crop yields using machine learning, real-time weather data, and soil parameters. **Now serving all 38 districts across Tamil Nadu** - from farmers in small villages like Gopalapuram to major agricultural hubs across the state.
 
-**Developed by:** Jhonsielena A
+**Developed by:** Johnshi Elena A
 **Institution:** Sona college of Technology  
 **Domain:** Smart Agriculture (AI/ML)  
 **Coverage:** All 38 Districts of Tamil Nadu (100+ locations)
@@ -456,6 +456,6 @@ Small and marginal farmers of Tamil Nadu who face challenges in crop selection a
 
 *Empowering Farmers with AI for a Sustainable Future* 🌾
 
-**Made with 💚 by Johnshielena **  
+**Made with 💚 by Johnshi Elena A **  
 **Sona college of Technology**  
 **January 2026**
