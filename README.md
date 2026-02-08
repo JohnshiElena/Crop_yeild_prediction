@@ -455,12 +455,12 @@ Small and marginal farmers of Tamil Nadu who face challenges in crop selection a
 3. Open `yield_prediction_dashboard.html`
 4. Start predicting yields!
 
-**Questions?** Check `PROJECT_DOCUMENTATION.md` or contact vinothas.cb24@bitsathy.ac.in
+**Questions?** Check `PROJECT_DOCUMENTATION.md` or contact johnshielena07@gmail.com
 
 ---
 
 *Empowering Farmers with AI for a Sustainable Future* 🌾
 
-**Made with 💚 by Jhonsielena **  
+**Made with 💚 by Johnshielena **  
 **Sona college of Technology**  
 **January 2026**
