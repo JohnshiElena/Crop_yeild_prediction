@@ -12,7 +12,7 @@
 
 An AI-powered system that predicts crop yields using machine learning, real-time weather data, and soil parameters. **Now serving all 38 districts across Tamil Nadu** - from farmers in small villages like Gopalapuram to major agricultural hubs across the state.
 
-**Developed by:** Jhonsielena  
+**Developed by:** Jhonsielena A
 **Institution:** Sona college of Technology  
 **Domain:** Smart Agriculture (AI/ML)  
 **Coverage:** All 38 Districts of Tamil Nadu (100+ locations)
@@ -369,7 +369,7 @@ Prediction:
 ## 📞 Support
 
 ### For Students/Developers
-**Email:** vinothas.cb24@bitsathy.ac.in  
+**Email:**johnshielena07@gmail.com  
 **Documentation:** See PROJECT_DOCUMENTATION.md  
 **Examples:** See example_usage.py
 
@@ -398,11 +398,6 @@ Free to use for:
 - 6 farmers from Gopalapuram village
 - Agricultural Department, Salem
 - Local agricultural officers
-
-### Technical Support
-- Bannari Amman Institute of Technology
-- Institutions Innovation Council
-- Open-Meteo API
 
 ### Inspiration
 Small and marginal farmers of Tamil Nadu who face challenges in crop selection and yield optimization.
